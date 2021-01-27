@@ -2813,7 +2813,7 @@
         },
         {
           "content": "<div style=\"font-weight: bold; padding: 0; margin: 0; right: 0; padding: 7px 0px; margin: 5px 5px 0 5px; font-size: 18px;\"><span style=\"color: #D1D1CE;\">&gt; </span> <span style=\"color: #e37400;\">Global Information</span> : Requests / sec</div>\n",
-          "datasource": null,
+          "datasource": "$ds",
           "fieldConfig": {
             "defaults": {
               "custom": {}
@@ -3106,7 +3106,7 @@
         },
         {
           "content": "<div style=\"font-weight: bold; padding: 0; margin: 0; right: 0; padding: 7px 0px; margin: 5px 5px 0 5px; font-size: 18px;\"><span style=\"color: #D1D1CE;\">&gt; </span> <span style=\"color: #e37400;\">Global Information</span> : Responces / sec</div>\n",
-          "datasource": null,
+          "datasource": "$ds",
           "fieldConfig": {
             "defaults": {
               "custom": {}
